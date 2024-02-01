@@ -1,0 +1,3 @@
+type PersonalHeadingsType = {
+    school: string;
+}
