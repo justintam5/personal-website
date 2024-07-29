@@ -16,7 +16,7 @@ export default function Home() {
           </div>
 
           <div>
-            <FileButton pdfUrl="/files/Resume_07-2024.pdf" text="Resume" />
+            <FileButton pdfUrl="/files/Resume_08-2024.pdf" text="Resume" />
           </div>
 
           <div>
