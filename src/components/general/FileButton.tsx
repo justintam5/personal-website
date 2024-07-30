@@ -12,7 +12,7 @@ const FileButton = ({ pdfUrl, text }: FileButtonProps) => {
 
   return (
     <button
-      className="bg-gray-500 opacity-30 hover:opacity-70 text-white text-opacity-100 font-bold py-2 px-4 rounded"
+      className="bg-white bg-opacity-30 hover:opacity-70 text-gray-600 text-opacity-100 font-bold py-2 px-4 rounded"
       onClick={handleButtonClick}
     >
       {text}
