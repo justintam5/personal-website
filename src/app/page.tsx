@@ -10,8 +10,8 @@ export default function Home() {
             {/* <h1 className="mt-2 text-md tracking-tight text-black sm:text-xl">
               Hi there, my name is
             </h1> */}
-            <h1 className="mt-2 text-4xl font-bold tracking-tight text-gray-600 sm:text-8xl">
-              Justin Tam
+            <h1 className="mt-2 text-2xl font-bold tracking-tight text-gray-600 sm:text-2xl">
+              Please send a teamviewer link UwU Ow&lt;
             </h1>
           </div>
 
